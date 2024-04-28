@@ -1,0 +1,6 @@
+[submodule "qanda-frontend"]
+	path = qanda-frontend
+	url = https://github.com/lixxj/qanda-frontend.git
+[submodule "qanda-backend"]
+	path = qanda-backend
+	url = https://github.com/lixxj/qanda-backend.git
